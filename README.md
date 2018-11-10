@@ -1,2 +1,2 @@
 # mandelbrot_orbit
-Calculator for Mandelbrot Orbits around a central point.
+Calculator for Mandelbrot orbits around a central point.
